@@ -1,4 +1,4 @@
-# GIS Analysis of New Zealand Earthquakes (2024-2025)
+# GIS Analysis of New Zealand Earthquakes (2024)
 
 ## Introduction
 
