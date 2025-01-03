@@ -20,7 +20,12 @@ This project focuses on exploring earthquake patterns, magnitude distribution, s
 ## Dataset Information
 
 - **Source 1:** Earthquake data from [geonet.nz](https://www.geonet.org.nz/)
+- All files are available in CSV as well as GeoJSON formats. From GeoNet, we have used the CSV file.
 - **Source 2:** Shapefiles for New Zealand regions from [state.nz](https://data.govt.nz/)
+- Data type: Vector polygon layer (Multipolygon)
+- CRS as stored: NZGD2000 / New Zealand Transverse Mercator 2000 (EPSG:2193)
+
+
 
 ### Key Columns in Dataset:
 
