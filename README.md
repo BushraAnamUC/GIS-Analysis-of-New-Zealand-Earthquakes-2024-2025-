@@ -1,8 +1,5 @@
 # GIS Analysis of New Zealand Earthquakes (2024)
 
-## Introduction
-
-This project focuses on exploring earthquake patterns, magnitude distribution, spatial clustering, and temporal trends in New Zealand. By leveraging GIS tools and visualization libraries, we aim to provide insightful analyses of seismic activity.
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -16,6 +13,9 @@ This project focuses on exploring earthquake patterns, magnitude distribution, s
 
 ---
 
+## Introduction
+
+This project focuses on exploring earthquake patterns, magnitude distribution, spatial clustering, and temporal trends in New Zealand. By leveraging GIS tools and visualization libraries, we aim to provide insightful analyses of seismic activity.
 
 ## Dataset Information
 
