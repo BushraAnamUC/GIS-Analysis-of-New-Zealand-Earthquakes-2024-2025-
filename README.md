@@ -7,7 +7,7 @@
 - [Project Structure](#project-structure)
 - [Installation and Setup](#installation-and-setup)
 - [Data Preprocessing](#data-preprocessing)
-- [Visualization](#visualization)
+- [Visualisation](#visualisation)
 - [Statistical Analysis](#statistical-analysis)
 - [Conclusion](#conclusion)
 
@@ -46,7 +46,7 @@ GIS-NZ-Earthquakes/
 │
 ├── notebooks/
 │   ├── data_preprocessing.ipynb
-│   ├── visualization.ipynb
+│   ├── visualisation.ipynb
 │   └── statistical_analysis.ipynb
 │
 ├── outputs/
@@ -85,9 +85,9 @@ The data preprocessing steps include:
 
 **Code:** See `notebooks/data_preprocessing.ipynb`
 
-## Visualization
+## Visualisation
 
-The project includes various visualizations:
+The project includes various visualisations:
 
 1. **Interactive Map of Earthquakes:** Circle markers for earthquake locations with magnitudes represented by marker size.
 2. **Heatmap:** Density of earthquakes across New Zealand.
@@ -95,9 +95,7 @@ The project includes various visualizations:
 4. **Magnitude vs Location:** Magnitude distribution by geographic region.
 5. **Depth vs Magnitude:** Correlation between depth and magnitude.
 
-**Code:** See `notebooks/visualization.ipynb`
-
-### Example: Interactive Map
+**Code:** See `notebooks/visualisation.ipynb`
 
 
 
